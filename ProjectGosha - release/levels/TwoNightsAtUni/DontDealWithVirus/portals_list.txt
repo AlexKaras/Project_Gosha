@@ -1,0 +1,2 @@
+#x y lvl stg p_x p_y delay
+31 9 1 1 3 3 60
