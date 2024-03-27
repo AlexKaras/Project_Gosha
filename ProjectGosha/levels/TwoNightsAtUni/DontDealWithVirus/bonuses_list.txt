@@ -1,0 +1,11 @@
+#x y spr_id keys hp score anim_del
+#Ключи
+18 2 key 1 0 100 60
+6 2 key 1 0 100 60
+7 18 key 1 0 100 60
+25 8 key 1 0 100 60
+#
+#Жизни
+6 6 heal 0 1 200 60
+29 6 heal 0 1 200 60
+4 16 heal 0 1 200 60

@@ -1,0 +1,2 @@
+29 1 #положение игрока
+WelomeToTheInternet.wav #Фоновая музыка
